@@ -19,25 +19,20 @@ return (
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         opacity: '90%',
+        filter:'blur(5px)'
         
         
 	}}
 	>
 
 
-<div class="bg-text">
 
-<img src={signature} alt='background' style={{
-    width: '100%',
-
-
-}}/>
 
     {/* <div class="title-text container">
         <a href="opere.html">OPERE</a>
         <!-- | <a href="bio.html">BIO</a> -->
     </div> */}
-</div>
+
     {/* <footer class="footer container justify-content-center">
     Copyright © - Tutti i diritti riservati
 </footer> */}
