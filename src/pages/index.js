@@ -1,6 +1,6 @@
 
 import React from 'react';
-import signature from '../assets/Illustration FIRMA.png';
+// import signature from '../assets/Illustration FIRMA.png';
 import background from '../assets/3.jpg';
 
 
